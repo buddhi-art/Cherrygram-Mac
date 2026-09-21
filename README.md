@@ -1,1 +1,0 @@
-# I am trying to build Cherrygram for Mac so have pateince for some time. i will get it done as soon as possible. 
