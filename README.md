@@ -19,3 +19,5 @@ Cherrygram is a messaging client for macOS. It's a fork of Telegram for macOS, b
 * Share your location
 * Share your contacts
 * Share your screen
+
+##Note : it doesn't work right now as i am just starting. 
